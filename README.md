@@ -1,4 +1,4 @@
-Design & Architecture Summary (for Resume or Portfolio):
+Design & Architecture Summary:
 Objective:
 Developed a modular GenAI blue teaming solution to secure LLM applications by detecting prompt injection attacks, output abuse, jailbreak attempts, and enforcing policy compliance in real-time.
 
